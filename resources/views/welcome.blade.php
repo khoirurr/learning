@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    khoirur
+                    khoirur rozak
+                    
                 </div>
 
                 <div class="links">
